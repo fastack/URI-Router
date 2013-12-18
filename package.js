@@ -1,0 +1,24 @@
+{
+	"name": "URI-Router",
+	"description": "Routes URIs to functions using regex and JSON",
+	"version": "0.1.0",
+	"homepage": "https://github.com/fastack/URI-Router",
+	"repository":{
+		"type": "git",
+		"url": "git://github.com/fastack/URI-Router.git"
+	},
+	"bugs":{
+		"url": "https://github.com/fastack/URI-Router/issues"
+	},
+	"licenses"[
+	  {
+		"type": "MIT",
+		"url": "https://github.com/fastack/URI-Router/blob/master/LICENSE"
+	  }
+	],
+	"main": "./lib/router.js",
+	"engines": {},
+	"scripts": {},
+	"devDependencies": {},
+	"keywords": [],
+}

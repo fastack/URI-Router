@@ -1,4 +1,4 @@
 URI-Router
 ==========
 
-Routes URIs to methods using regex
+Routes URIs to functions using regex and JSON
